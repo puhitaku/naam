@@ -2,7 +2,7 @@ import os
 from setuptools import setup, find_packages
 
 
-__version__ = '0.0.1'
+__version__ = '0.1.0'
 __author__ = 'Takumi Sueda'
 __author_email__ = 'puhitaku@gmail.com'
 __license__ = 'MIT License'
@@ -19,7 +19,7 @@ __classifiers__ = (
 
 
 here = os.path.abspath(os.path.dirname(__file__))
-with open(os.path.join(here, 'README.md')) as f:
+with open(os.path.join(here, 'README.rst')) as f:
     readme = f.read()
 
 
