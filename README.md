@@ -49,7 +49,7 @@ With empty arguments, this outputs:
 Usage: optional.py [-l LAST_NAME | --last_name LAST_NAME] FIRST_NAME
 ```
 
-With arguments, this outputs like below:
+With arguments, this outputs like:
 
 ```
 $ python optional.py Miku
