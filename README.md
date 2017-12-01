@@ -1,7 +1,7 @@
 # NAAM
 *No Argparse Any More.*
 
-![Pretty amazing...](pretty_amazing.jpg)
+[![Pretty amazing...](pretty_amazing.jpg)](https://www.youtube.com/watch?v=geljnhxZfdA)
 
 ## Don't google argparse just take some NAAM
  - I forget how to use argparse every time I make utilities
