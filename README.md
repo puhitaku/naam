@@ -1,4 +1,5 @@
 # NAAM
+![](https://img.shields.io/pypi/pyversions/naam.svg)
 
 *No Argparse Any More.*
 
